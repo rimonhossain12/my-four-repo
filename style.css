@@ -17,3 +17,12 @@ p{
     font-size: 18px;
     text-transform: lowercase;
 }
+img{
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+}
+#div1{
+
+    text-align: center;
+}
